@@ -1,0 +1,26 @@
+﻿  gesture_slide_errortrigger_handle.cpp
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\gesture_slide_errortrigger_handle.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\force_process.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\gesture_slide_errortrigger_handle.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\gesture_slide_errortrigger_handle.cpp(124,30): warning C4018: “>”: 有符号/无符号不匹配
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\gesture_slide_errortrigger_handle.cpp(153,30): warning C4018: “>”: 有符号/无符号不匹配
+  integral_calculate.cpp
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\integral_calculate.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\force_process.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\integral_calculate.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\integral_calculate.cpp(15,21): warning C4244: “初始化”: 从“int32_t”转换到“float”，可能丢失数据
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\integral_calculate.cpp(16,16): warning C4244: “初始化”: 从“int32_t”转换到“float”，可能丢失数据
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\integral_calculate.cpp(33,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\integral_calculate.cpp(34,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\integral_calculate.cpp(126,96): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+  main.cpp
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\main.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\force_process.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\main.cpp(45,24): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\Gesture\main.cpp(245,40): warning C4244: “=”: 从“float”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=uint32_t
+          ]
+  正在生成代码...
+  Gesture.vcxproj -> E:\Data\01-RD-S9XXD\signal_analysis_fun\手势\Gesture\Gesture_c_Modify\x64\Debug\Gesture.exe
